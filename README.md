@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="src/assets/folder/../folders/02.png" width="380px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="src/assets/folder/../folders/02.png" width="680px" />
 </div>
 
 <p align="center">
